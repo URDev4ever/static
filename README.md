@@ -1,4 +1,5 @@
 <h1 align="center">Static</h3>
+<p align="center"> 🇺🇸 <a href="README.md"><b>English</b></a> | 🇪🇸 <a href="README_ES.md">Español</a> </p>
 <p align="center">
   <img width="358" height="197" alt="static banner" src="https://github.com/user-attachments/assets/a488bd7e-d760-451e-974b-5fd852077d76" />
 </p>
@@ -141,13 +142,6 @@ These features will be introduced gradually while keeping the tool lightweight a
 Static is intended for **defensive security testing, research, and educational purposes only**. The author does not condone or support malicious use.
 
 You are responsible for complying with all applicable laws and regulations.
-
----
-
-## 👤 Author
-
-**URDev**
-GitHub: [https://github.com/urdev4ever](https://github.com/urdev4ever)
 
 ---
 made with <3 by URDev
