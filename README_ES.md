@@ -1,7 +1,3 @@
-Aquí tienes la **traducción completa al español**, conservando el formato original:
-
----
-
 <h1 align="center">Static</h3>
 <p align="center"> 🇺🇸 <a href="README.md"><b>English</b></a> | 🇪🇸 <a href="README_ES.md">Español</a> </p>
 <p align="center">
