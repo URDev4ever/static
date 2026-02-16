@@ -144,4 +144,14 @@ Static is intended for **defensive security testing, research, and educational p
 You are responsible for complying with all applicable laws and regulations.
 
 ---
+
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve typo-generation techniques or domain verification heuristics without adding external dependencies
+* Enhance scanning stability, performance, or output clarity while preserving clean terminal UX
+* Maintain the lightweight, dependency-free philosophy of the tool and avoid feature bloat
+
+---
 made with <3 by URDev
