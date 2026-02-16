@@ -150,4 +150,13 @@ Eres responsable de cumplir con todas las leyes y regulaciones aplicables.
 
 ---
 
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran las técnicas de generación de typos o las heurísticas de verificación de dominios sin agregar dependencias externas
+* Mejoran la estabilidad, el rendimiento o la claridad del output manteniendo una experiencia limpia en terminal
+* Mantienen la filosofía ligera y sin dependencias de la herramienta, evitando el feature bloat
+
+---
 hecho con <3 por URDev
